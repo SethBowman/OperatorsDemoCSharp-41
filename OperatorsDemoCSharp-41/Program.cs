@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            //Opeartors
+            //Operators
             //Assignment operator
 
             //int x = 5;
